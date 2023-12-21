@@ -46,7 +46,7 @@ const LoginScreen = () => {
           keyExtractor={(item) => item.id}
         ></FlatList>
       </ImageBackground>
-      <Te></Te>
+      <Text></Text>
     </SafeAreaView>
   );
 };
